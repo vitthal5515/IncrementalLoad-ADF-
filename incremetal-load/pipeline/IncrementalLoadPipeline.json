@@ -1,0 +1,7 @@
+{
+	"name": "IncrementalLoadPipeline",
+	"properties": {
+		"description": "This pipeline created for the load data incrementally.",
+		"annotations": []
+	}
+}
